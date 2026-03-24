@@ -69,8 +69,19 @@ Compare the simulation results with the theoretical calculations and discuss any
 
 ---
 
-## Result
+## Block Diagram
+
+<img width="786" height="441" alt="image" src="https://github.com/user-attachments/assets/18b1cc68-dd40-4bed-bc0c-c6103b0d85b6" />
+
+---
+
+## Graph
 
 <img width="1735" height="924" alt="image" src="https://github.com/user-attachments/assets/5d4deb2b-5b26-4262-82cd-bdf2520c5dbd" />
 
+---
+
+## Result
+
+Thus, Gaussian Pulse Propogation has been simuated and the results are verified successfully.
 
